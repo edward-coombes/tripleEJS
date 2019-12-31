@@ -1,0 +1,17 @@
+{
+  "name": "triple-ejs",
+  "version": "1.0.0",
+  "description": "Test of the express, electron, ejs stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ejs": "^3.0.1",
+    "electron": "^7.1.7",
+    "express": "^4.17.1"
+  }
+}

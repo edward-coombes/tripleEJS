@@ -1,0 +1,11 @@
+.nav-link {
+	margin:1em;
+	color:black;
+}
+.nav-link:hover {
+	color: white;
+}
+.navbar .nav .nav-item .nav-link.active {
+	background-color: white;
+	color:black;
+}
